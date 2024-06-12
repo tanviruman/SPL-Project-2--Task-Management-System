@@ -1,4 +1,4 @@
-# Task Management System Documentation
+# Task Management System 
 
 This Task Management System is a C program that allows users to sign up, log in, add tasks, view tasks, and delete their accounts. The program uses text files to store user credentials and task information.
 
